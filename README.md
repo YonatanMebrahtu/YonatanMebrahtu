@@ -2,7 +2,7 @@
 
 I am Yonatan Mebratu, currently working as a Graphics Designer at the [Arc Advertising and Printing](https://ArcAdvertEth/). I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Gmail Badge](https://img.shields.io/badge/-yonatan.a2009%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esubalew.a2009@gmail.com)](mailto:yonatantom9@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-yonatantom9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esubalew.a2009@gmail.com)](mailto:yonatantom9@gmail.com)
 
 
 ## ⚡ Technologies
